@@ -7,4 +7,5 @@ git remote add origin https://github.com/Ssalih60/30-Days-Of-JavaScript.git
 git push -u origin main
 
 
-git pull origin main --no-rebase
+git pull origin main --rebase
+git push origin main
