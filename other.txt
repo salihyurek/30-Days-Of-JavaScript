@@ -5,3 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Ssalih60/30-Days-Of-JavaScript.git
 git push -u origin main
+
+
+git pull origin main --no-rebase
