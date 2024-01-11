@@ -1,0 +1,7 @@
+let space = ' '
+let firstname = 'Salih'
+let lastName = 'Yürek'
+let country = 'Turkey'
+let city = 'Tokat'
+let language = 'JavaScript'
+let job = 'Software Developer'
