@@ -11,4 +11,4 @@ const PI = 3.14
 
 let name = 'Salih',
     job = 'Sofware Developer'
-    live = 'Turkey'
+    live = 'Turkey' 
