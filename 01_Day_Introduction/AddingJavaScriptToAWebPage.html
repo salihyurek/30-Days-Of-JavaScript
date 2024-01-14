@@ -1,0 +1,30 @@
+<!---
+Adding JavaScript to a Web Page
+
+// JavaScript can be added to a web page in three different ways:  // JavaScript bir web sayfasına üç farklı yolla eklenebilir:
+
+// Inline script                // satır içi script
+// Internal script              // dahili script
+// External script              // harici script
+// Multiple External scripts    // çoklu harici script 
+--->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>30DaysOfJavaScript: Script</title>
+    <script>console.log('Internal Script')</script> <!-- Internal Script, also avaible in body tag --> <!-- dahili script body etiketi içinde de kullanılabilir -->
+    <script src="./variable.js"></script> <!-- External script, it is located as a file with .js extension in the same folder or a different folder -->
+    <!-- Harici script, aynı klasörde veya farklı bir klasörde js uzantılı bir dosya olarak bulunur -->
+    
+</head>
+<body>
+
+    <button onclick="alert('Welcome to 30DaysOfJavaScript')">Click Me</button> <!-- Inline Script-->
+
+</body>
+</html>
+
+<!-- Multiple External Scripts means having more than one External Script. -->
+<!-- Multiple External Scripts ise External Script'in birden fazla bulunmasıdır  -->
