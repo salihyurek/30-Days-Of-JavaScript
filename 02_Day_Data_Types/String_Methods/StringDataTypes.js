@@ -1,5 +1,5 @@
 let space = ' '
-let firstname = 'Salih'
+let firstName = 'Salih'
 let lastName = 'Yürek'
 let country = 'Turkey'
 let city = 'Tokat'
