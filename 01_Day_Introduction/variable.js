@@ -45,4 +45,4 @@ Geçerli bir JavaScript değişkeni adı aşağıdaki kurallara uymalıdır:
 - Bir JavaScript değişken adı, camelCase kuralını takip eder.
 - Bir JavaScript değişken adında kelimeler arasında boşluk olmamalıdır.
 
-*/
+*/ 
