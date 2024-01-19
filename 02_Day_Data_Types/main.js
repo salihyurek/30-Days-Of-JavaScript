@@ -1,1 +1,0 @@
-// main.js script burada yer alıyor
