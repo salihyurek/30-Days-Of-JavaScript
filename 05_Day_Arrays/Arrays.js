@@ -195,7 +195,7 @@ const eightEmptyValues = Array(8)
 console.log(eightEmptyValues) // [empty x 8]
 
 
-// creating static values eith fill
+// creating static values with fill
 
 const arr5 = Array()
 console.log(arr5)
